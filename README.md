@@ -1,2 +1,2 @@
-# scraping-with-puppetteer
+# scraping-with-puppeteer
 scraping https://info.uniswap.org/#/tokens with puppeteer
